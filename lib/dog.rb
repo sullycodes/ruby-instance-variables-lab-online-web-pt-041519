@@ -1,4 +1,4 @@
-class Dog 
+lass Dog 
   
   def name(dog_name)
     @this_dogs_name = dog_name
@@ -13,4 +13,4 @@ end
 lassie = Dog.new
 lassie.name = "Lassie"
  
-puts lassie.name
+puts lassie.namec
